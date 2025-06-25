@@ -22,11 +22,8 @@ My personal projects can be found [here](#).
 
 #### Skills
 
-- Python – Comfortable with scripting, automation, focusing much more on organization now
-- SQL - I can write simple queries pretty fast, once we need a pivot or something I need w3
-- JavaScript / Node.js - defacto maintainer of our internal monitoring dashboard
+- Python – Comfortable with scripting, automation, focusing more on organization now
+- SQL - I can write simple queries but need w3 to remember pivots or more complex stuff
+- JavaScript / Node.js - defacto maintainer of our monitoring dashboard
+- Can google stuff
 - thought I had more skills. Dang it..
-
-
-
-
