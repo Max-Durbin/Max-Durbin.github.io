@@ -3,27 +3,26 @@
 title: "About"
 date: 2025-06-24 12:00:00 +0000
 icon: fas fa-info-circle
-order: 4
+order: 0
 ---
 
 
 #### Hello and welcome to my website — let me introduce myself
 
-My name is Max, and I'm beginning to like computers.
-
-It started with a few projects way beyond my skill level. They were horrible messes but I was proud and had loads of fun. I've been hooked ever since.
-
+At some point I started to like computers :)  
 I graduated from Missouri Western State University in 2022 and was fortunate enough to find work in warehouse automation.
 
-I'll write a little more about my work experience [here](#).
+[Work Experience](#)  
+[Personal Projects](#)
 
-My personal projects can be found [here](#).
+#### **Skills** <small>***in desc***</small>
 
+| Language           | Experience Description                                               | Use Frequency |
+|--------------------|----------------------------------------------------------------------|---------------|
+| **Python**         | Comfortable with scripting and automation.                           | Daily         |
+| **SQL**            | Not advanced but use it frequently.                                  | Weekly - used to be more   |
+| **JS**             | Defacto maintainer of our monitoring dashboard.                      | Daily         | 
 
-#### Skills
-
-- Python – Comfortable with scripting, automation, focusing more on organization now
-- SQL - I can write simple queries but need w3 to remember pivots or more complex stuff
-- JavaScript / Node.js - defacto maintainer of our monitoring dashboard
-- Can google stuff
-- thought I had more skills. Dang it..
+#### **Wants**
+- More team autonomy - <small>*Currently we are very limited by external branches and partner company.*</small>
+- Code/database need to address organization at some point.
