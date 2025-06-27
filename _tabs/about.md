@@ -24,5 +24,5 @@ I graduated from Missouri Western State University in 2022 and was fortunate eno
 | **JS**             | Defacto maintainer of our monitoring dashboard.                      | Daily         | 
 
 #### **Wants**
-- More team autonomy - <small>*Currently we are very limited by external branches and partner company.*</small>
-- Code/database need to address organization at some point.
+- More team autonomy and transparency between corporate branches
+- Expectations for organization in prod code/db.
