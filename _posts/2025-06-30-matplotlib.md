@@ -15,8 +15,8 @@ At an hourly sample production and down times were positively correlated because
 
 ![rates_image](/assets/img/posts/matplotlib/matplotlib_rate.PNG)
 
-At first the correlation was weaker. Drawing pickrate/downtime points with different colors to see if a factor grouped together really helped eliminate some bad data (ie. At 10am everyone in one area goes on break for some reason, saturdays are super light.)
+At first the correlation was weaker. Drawing pickrate/downtime points with different colors to see if a factor grouped together based on color and that really helped eliminate some bad data (ie. At 10am everyone in one area goes on break for some reason, saturdays are super light.)
 
 ![scatter_image](/assets/img/posts/matplotlib/matplotlib_scatter.PNG)
 
-Anyways from that the total downtime of 5 min per hour seemed to decrease pick rate around 500.
+The scatter plot is missing some context but from it we conclude a total downtime of 5 min per hour seemed to decrease pick rate around 500. Knowing that is nice if you are trying to decide on hiring another operator or maintenance guy.
