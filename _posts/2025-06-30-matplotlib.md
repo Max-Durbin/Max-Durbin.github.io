@@ -5,13 +5,17 @@ categories: [matplotlib, python]
 tags: [python]
 ---
 
-During a negation of a maintenance contract someone new but up in our partner company asked *"How much does down time cost us"*. It's a pretty obvious question but none of us knew.
+Our partner company asked ***How much does down time cost us***
 
-The machines/conveyors are very redundant. The whole site is only brought down during severe catastrophes, sundays, and holidays. One machine going down is drowned out by larger factors like operator performance and teams size. In most cases downtime like this is not detectable. 
+***you can skip this nonsense***  
+The whole site is only brought down during severe catastrophes, sundays, and worst of all holidays. No on agrees on what Down-time is but this question did come up while management was negotiating maintenance. Anyways I'm assuming *downtime is the accumulated time machines are inoperable.*
+### **Comparing production rates to down time**
 
-We decided to graph the total summed down time of all machines/conveyors for a period and hoped to see an impact on warehouse pick rate. Python was fantastic for doing this quickly, it was also a good excuse to use matplotlib.
+One machine going down is drowned out by larger factors like operator performance and teams size so its difficult to measure real impact when multiple things can influence moving the same case/box.
 
-At an hourly sample production and down times were positively correlated because no production means nothing breaking. Moving to a daily period showed the negative correlation we expected.
+We decided to graph the total summed down time of all machines/conveyors for a period and see if there was a visible impact on warehouse pick rate. Python and matplotlib were fantastic for visualizing this quickly when Excel became complicated.
+
+At an hourly sample production down times were positively correlated because no production means nothing breaking. Moving to a daily period showed the negative correlation we expected.
 
 ![rates_image](/assets/img/posts/matplotlib/matplotlib_rate.PNG)
 
@@ -20,3 +24,5 @@ At first the correlation was weaker. Drawing pickrate/downtime points with diffe
 ![scatter_image](/assets/img/posts/matplotlib/matplotlib_scatter.PNG)
 
 The scatter plot is missing some context but from it we conclude a total downtime of 5 min per hour seemed to decrease pick rate around 500. Knowing that is nice if you are trying to decide on hiring another operator or maintenance guy.
+
+I love graphs and pretty pictures. You are lucky there are 2 graphs and not 20
