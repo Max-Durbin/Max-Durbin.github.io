@@ -7,7 +7,7 @@ tags: [python]
 
 Our partner company asked ***How much does down time cost us***
 
-***you can skip this nonsense***  
+***you can skip this paragraph***  
 The whole site is only brought down during severe catastrophes, sundays, and worst of all holidays. No on agrees on what Down-time is but this question did come up while management was negotiating maintenance. Anyways I'm assuming *downtime is the accumulated time machines are inoperable.*
 ### **Comparing production rates to down time**
 
